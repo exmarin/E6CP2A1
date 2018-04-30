@@ -5,3 +5,11 @@
 
 cadena = 'Hola Mundo!'
 caracter = 'o'
+
+def check_if_exists?(string, match)
+  b = string.downcase
+  return true if b.include? match.downcase
+  false
+end
+
+print check_if_exists?(cadena, caracter)
