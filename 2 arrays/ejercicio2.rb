@@ -1,8 +1,5 @@
 # Dado el array:
 
-
-
-
 # 5. Utilizando un arreglo vacío auxiliar y operaciones de push y pop:
 #    invertir el orden de los elementos en un arreglo.
 
